@@ -54,7 +54,6 @@ To save bandwidth, use Git’s sparse checkout to clone just specific folders:
 |  Sem 2  | [Cosmos-Vault-IIITDM-Sem2](https://github.com/Harith-Y/Cosmos-Vault-IIITDM-Sem2)               |
 |  Sem 3  | [Cosmos-Vault-IIITDM-Sem3](https://github.com/Harith-Y/Cosmos-Vault-IIITDM-Sem3)               |
 |  Sem 4  | [Cosmos-Vault-IIITDM-Sem4](https://github.com/Harith-Y/Cosmos-Vault-IIITDM-Sem4)               |
-|  Sem 5  | [Cosmos-Vault-IIITDM-Sem5](https://github.com/Harith-Y/Cosmos-Vault-IIITDM-Sem5)               |
 |  Index  | [Cosmos-Vault-Index](https://github.com/Harith-Y/Cosmos-Vault-Index)                           |
 
 ---
